@@ -1,0 +1,11 @@
+text,category
+"Patient presents with severe headache and nausea","Migraine"
+"Chest pain and shortness of breath","Cardiac"
+"Persistent cough and fever","Respiratory"
+"Abdominal pain and vomiting","Gastrointestinal"
+"Joint pain and stiffness","Rheumatological"
+"Memory loss and confusion","Neurological"
+"Skin rash and itching","Dermatological"
+"Frequent urination and thirst","Endocrine"
+"Fatigue and weight loss","Oncological"
+"Anxiety and depression symptoms","Psychiatric"
